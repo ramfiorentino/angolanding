@@ -25,7 +25,8 @@ function App() {
       </section>
 
       <section id='page2'>
-        <h1><a href="https://paypal.me/angolovesyoudeeply"> PAYPAL ME</a> </h1>
+        <h1><a href="https://paypal.me/angolovesyoudeeply"> PAYPAL ME FOR THIS SHOW</a> </h1>
+        <h1><a href="https://exchange.art/editions/9vhUJDV7qpfdAAAm5Fi9b7UNbnX2dLBN8HqjnDuqQkpq"> BUY MY NTF</a> </h1>
         <img src={mainpic} />
         <h2>FOLLOW {' '}
         
