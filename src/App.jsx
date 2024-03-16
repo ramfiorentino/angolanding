@@ -1,7 +1,7 @@
 
 
 import headerpic from "../src/assets/angoshinyfinal1.gif"
-import angovideo from "../src/assets/angovideo.mp4"
+import angovideo from "../src/assets/angovideo.mov"
 import mainpic from "../src/assets/angomainpic.png"
 
 
