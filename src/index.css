@@ -38,9 +38,17 @@ body {
   height: 30px;
 }
 
+.headerpic {
+  margin-bottom: 2rem;
+}
+
 .angovideo {
   max-width: 80%;
   margin-top: -5rem;
+}
+
+.angovideodiv {
+  margin: 1rem;
 }
 
 img {
@@ -99,7 +107,7 @@ section p {
   max-width: 385px;
   font-weight: 400;
   font-size: 1.2rem;
-  margin-top: -5rem;
+  margin-top: 0rem;
   margin-bottom: -3rem;
   color: rgb(225, 141, 169);
 }

@@ -13,7 +13,7 @@ function App() {
       <section id="page1">
        <div>
        <img className="headerpic" src={headerpic}/>
-       <div><video src={angovideo} className="angovideo" autoPlay loop muted></video></div>
+       <div className="angovideodiv"><video src={angovideo} className="angovideo" autoPlay loop muted></video></div>
        </div>
         <h2>angolovesyoudeeply <br />
           VR Experience<br />
